@@ -24,3 +24,35 @@ li a {
     padding: 7px 8px;
     text-decoration: none;
 }
+
+#input{
+	height: 36px;
+	width:600px;
+	border-style: solid;
+	border-color:  #B6B6B4;
+	border-width: 1px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+height: 32px;
+width: auto;
+	background-color:  #B6B6B4;
+	font-size: 75%;
+	margin-top: 32px;
+	text-align: center;
+	color: #2C3935;
+	display: inline-block;
+}
+
+#search{
+	width:95px;
+	margin-right: 6px;
+	margin-left: 520px;
+}
+
+#lucky{
+	width: 150px;
+}
